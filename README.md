@@ -50,6 +50,7 @@ pip install -r requirements.txt
 streamlit run week3_anemiasense_app_py.py
 
 
+
 ## 🧬 Input Example
 | Gender | Hemoglobin | MCH | MCHC | MCV |
 |:-------|:-----------:|:---:|:----:|:---:|
@@ -100,6 +101,7 @@ AI
 🪙 License
 
 This project is licensed under the MIT License — feel free to use, modify, and share it for learning purposes.
+
 
 
 
