@@ -77,30 +77,37 @@ Common causes include iron deficiency, vitamin deficiency, or chronic diseases.
 AnemiaSense helps you get a quick idea of whether you might have anemia — but it’s not a medical diagnosis tool. Always consult a healthcare professional for medical advice.
 
 
-📈 Future Enhancements
+ Current Features (Already Implemented)
 
-📊 Add graphical data visualization
+📊 Bar chart comparing user’s Hemoglobin, MCH, MCHC, MCV with normal ranges
 
-🩸 Integrate more blood test parameters
+🔥 Severity levels: Normal, Mild, Moderate, Severe
 
-🧠 Improve ML model accuracy using large datasets
+🍎 Diet recommendations to improve hemoglobin
 
-📱 Create a mobile-responsive version
+✅ Instant prediction based on trained ML model
 
-☁️ Deploy a database for user tracking
+ Future Enhancements
 
+📱 Fully mobile responsive UI
+
+🚀 More blood indicators (RBC count, PCV, Iron levels)
+
+☁ Save user history in database
+
+🤖 Train model on larger anemia dataset for higher accuracy
+
+🧪 Add more types of anemia classifications
 ## 🏆 Author
 **Sankeerthika Paka**  
 B.Tech CSE Student, Anurag University  
 
-Empowering
-Health
-with
-AI
+Empowering Health with AI
 
 🪙 License
 
 This project is licensed under the MIT License — feel free to use, modify, and share it for learning purposes.
+
 
 
 
